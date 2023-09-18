@@ -50,4 +50,5 @@ if (!num) {
     console,log("the number is zero");
 } else {
     console.log("the number is not zero"); {
+
     }
