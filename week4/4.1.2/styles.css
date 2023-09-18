@@ -1,0 +1,39 @@
+* {
+  border: 1px dotted black;
+}
+
+.favorite-websites {
+  background-color: aqua;
+}
+
+ul > li {
+  padding: 10px;
+}
+
+.ul.favorite-websites {
+  list-style-type: none;
+}
+
+h1,h2,h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+  color: red;
+}
+
+h2 + p {
+  font-weight: bold;
+}
+
+h1 {
+  padding: 20px;
+  margin: 10px 0;
+}
+
+h2 {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
